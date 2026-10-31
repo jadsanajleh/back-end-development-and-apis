@@ -94,3 +94,4 @@ You will learn JSON Web Token authentication and role-based authorization by bui
 ### 16. Build a Family Movie Watchlist API
 
 Practice authentication and authorization by building a family movie watchlist HTTP API.
+# prime-number-checker
